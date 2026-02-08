@@ -1,5 +1,7 @@
+--index-url https://download.pytorch.org/whl/cpu
+torch torchvision torchaudio
 flask
 flask-cors
-ultralytics
-opencv-python-headless
 numpy
+opencv-python-headless==4.8.1.78
+ultralytics
